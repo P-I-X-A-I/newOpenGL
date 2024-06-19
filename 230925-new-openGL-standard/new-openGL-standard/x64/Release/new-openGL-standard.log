@@ -1,0 +1,24 @@
+﻿  WindowGUI_Manager_Class.cpp
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(72,3): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(21,7): warning C4101: 'winRect': ローカル変数は 1 度も使われていません。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(638,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(687,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(733,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(804,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(825,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(838,10): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(867,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(901,12): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(908,15): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(958,12): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(964,15): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\WindowGUI_Manager_Class.cpp(986,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+  gl_simple.cpp
+  mainController.cpp
+  new-openGL-standard.cpp
+  コード生成しています。
+  5 of 18 functions (27.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  new-openGL-standard.vcxproj -> C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\x64\Release\new-openGL-standard.exe
